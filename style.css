@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    padding: 30px;
+    width: 400px;
+    border: 1px solid #e4e4e4;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+button {
+    padding: 10px 20px;
+    text-transform: capitalize;
+}
